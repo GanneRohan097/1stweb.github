@@ -1,2 +1,2 @@
-# 1stweb.github
+# 1stweb.github.io
 Web for me
